@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|c:\\users\\giolga\\desktop\\myprojects\\razorpizzeria\\razorpizzeria\\models\\pizzasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|solutionrelative:razorpizzeria\\models\\pizzasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|c:\\users\\giolga\\desktop\\myprojects\\razorpizzeria\\razorpizzeria\\pages\\pizza.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|solutionrelative:razorpizzeria\\pages\\pizza.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|c:\\users\\giolga\\desktop\\myprojects\\razorpizzeria\\razorpizzeria\\pages\\pizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|solutionrelative:razorpizzeria\\pages\\pizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|c:\\users\\giolga\\desktop\\myprojects\\razorpizzeria\\razorpizzeria\\pages\\checkout\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|solutionrelative:razorpizzeria\\pages\\checkout\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|c:\\users\\giolga\\desktop\\myprojects\\razorpizzeria\\razorpizzeria\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5066C1-75B9-4F28-A140-A3E639E3A401}|RazorPizzeria\\RazorPizzeria.csproj|solutionrelative:razorpizzeria\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzasModel.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Models\\PizzasModel.cs",
+              "RelativeDocumentMoniker": "RazorPizzeria\\Models\\PizzasModel.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Models\\PizzasModel.cs",
+              "RelativeToolTip": "RazorPizzeria\\Models\\PizzasModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:34:01.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Pages\\Pizza.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPizzeria\\Pages\\Pizza.cshtml.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Pages\\Pizza.cshtml.cs",
+              "RelativeToolTip": "RazorPizzeria\\Pages\\Pizza.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:27:00.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPizzeria\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPizzeria\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T14:47:40.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Pages\\Pizza.cshtml",
+              "RelativeDocumentMoniker": "RazorPizzeria\\Pages\\Pizza.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Pages\\Pizza.cshtml",
+              "RelativeToolTip": "RazorPizzeria\\Pages\\Pizza.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T14:23:39.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Pages\\Checkout\\Checkout.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPizzeria\\Pages\\Checkout\\Checkout.cshtml.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\RazorPizzeria\\RazorPizzeria\\Pages\\Checkout\\Checkout.cshtml.cs",
+              "RelativeToolTip": "RazorPizzeria\\Pages\\Checkout\\Checkout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:44:35.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
